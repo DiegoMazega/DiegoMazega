@@ -1,16 +1,13 @@
-### Hi there 👋
+# Diego Mazega :man_technologist:
 
-<!--
-**DiegoMazega/DiegoMazega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-duarte-85b92b1a1/)](https://www.linkedin.com/in/diego-duarte-85b92b1a1/)
 
-Here are some ideas to get you started:
+### Hi there 👋 Welcome to my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Diego Leandro Mazega Duarte ...:
+
+- 🔭 I’m currently seaching for a job
+- 🌱 I’m currently learning Spring Boot, React Native & Node with Typescript.
+- 📫 How to reach me: diego.mazega@live.com
+- 😄 I really like to learn
+- ⚡ Fun fact: I like challenges 
