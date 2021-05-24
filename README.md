@@ -7,7 +7,7 @@
 My name is Diego Leandro Mazega Duarte ...:
 
 - :computer: I’m currently seaching for a job
-- :books: I’m currently learning Spring Boot, React Native & Node with Typescript.
+- :books: I’m currently learning Spring Boot, Flutter & Node with Typescript.
 - :email: How to reach me: diego.mazega@live.com
 - 😄 I really like to learn
 - ⚡ Fun fact: I like challenges 
